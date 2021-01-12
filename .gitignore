@@ -3,3 +3,4 @@ FNO/fourier_neural_operator/data/burgers_data_R10.mat
 FNO/Darcy Equation/data/piececonst_r421_N1024_smooth1.mat
 FNO/Darcy Equation/data/piececonst_r421_N1024_smooth2.mat
 FNO/Navier-Strokes/NavierStokes_V1e-5_N1200_T20.mat
+FNO/Navier-Strokes/data/NavierStokes_V1e-5_N1200_T20.mat
